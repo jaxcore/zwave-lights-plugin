@@ -1,0 +1,19 @@
+{
+	"name": "zwave-lights-plugin",
+	"version": "0.0.1",
+	"description": "Z-Wave Light adapter for Jaxcore Spin",
+	"author": "Dan Steinman",
+	"dependencies": {
+		"jaxcore-plugin": "^0.0.1",
+		"jaxcore-spin": "^0.0.1",
+		"openzwave-shared": "^1.4.6"
+	},
+	"devDependencies": {},
+	"scripts": {},
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/jaxcore/zwave-lights-plugin"
+	},
+	"homepage": "https://jaxcore.com"
+}
